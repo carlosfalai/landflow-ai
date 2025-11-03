@@ -1,0 +1,99 @@
+[
+  {
+    "company": "DR Horton",
+    "contactName": "Land Acquisition Team",
+    "email": "landacquisition@drhorton.com",
+    "phone": "",
+    "location": "Texas, Florida, Georgia, North Carolina, Arizona",
+    "lotSizeMin": 0.25,
+    "lotSizeMax": 5.0,
+    "priceRangeMin": 15000,
+    "priceRangeMax": 500000,
+    "notes": "Major national builder, actively acquiring land in all markets"
+  },
+  {
+    "company": "LGI Homes",
+    "contactName": "Land Development",
+    "email": "land@lgihomes.com",
+    "phone": "",
+    "location": "Texas, Florida, Georgia, North Carolina",
+    "lotSizeMin": 0.20,
+    "lotSizeMax": 3.0,
+    "priceRangeMin": 12000,
+    "priceRangeMax": 400000,
+    "notes": "Fast-growing builder focused on entry-level and move-up homes"
+  },
+  {
+    "company": "Lennar",
+    "contactName": "Land Acquisition",
+    "email": "land@lennar.com",
+    "phone": "",
+    "location": "Texas, Florida, California, Arizona, Nevada",
+    "lotSizeMin": 0.30,
+    "lotSizeMax": 10.0,
+    "priceRangeMin": 20000,
+    "priceRangeMax": 750000,
+    "notes": "One of the largest homebuilders, premium market focus"
+  },
+  {
+    "company": "Pulte Homes",
+    "contactName": "Land Team",
+    "email": "land@pulte.com",
+    "phone": "",
+    "location": "Texas, Florida, Georgia, North Carolina, Arizona",
+    "lotSizeMin": 0.25,
+    "lotSizeMax": 5.0,
+    "priceRangeMin": 15000,
+    "priceRangeMax": 500000,
+    "notes": "National builder with strong presence in major markets"
+  },
+  {
+    "company": "KB Home",
+    "contactName": "Land Development",
+    "email": "land@kbhome.com",
+    "phone": "",
+    "location": "Texas, California, Florida, Arizona",
+    "lotSizeMin": 0.20,
+    "lotSizeMax": 4.0,
+    "priceRangeMin": 12000,
+    "priceRangeMax": 450000,
+    "notes": "West Coast builder expanding to Sun Belt markets"
+  },
+  {
+    "company": "Meritage Homes",
+    "contactName": "Acquisition Department",
+    "email": "acquisitions@meritagehomes.com",
+    "phone": "",
+    "location": "Texas, Arizona, Florida, North Carolina",
+    "lotSizeMin": 0.25,
+    "lotSizeMax": 3.0,
+    "priceRangeMin": 15000,
+    "priceRangeMax": 400000,
+    "notes": "Energy-efficient home builder, strong in Texas"
+  },
+  {
+    "company": "Taylor Morrison",
+    "contactName": "Land Acquisition",
+    "email": "land@taylormorrison.com",
+    "phone": "",
+    "location": "Texas, Florida, California, Arizona, North Carolina",
+    "lotSizeMin": 0.25,
+    "lotSizeMax": 5.0,
+    "priceRangeMin": 18000,
+    "priceRangeMax": 550000,
+    "notes": "Luxury and move-up builder"
+  },
+  {
+    "company": "Century Communities",
+    "contactName": "Land Development Team",
+    "email": "land@centurycommunities.com",
+    "phone": "",
+    "location": "Texas, Colorado, Nevada, Arizona",
+    "lotSizeMin": 0.20,
+    "lotSizeMax": 4.0,
+    "priceRangeMin": 12000,
+    "priceRangeMax": 400000,
+    "notes": "Regional builder with strong presence in key markets"
+  }
+]
+

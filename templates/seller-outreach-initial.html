@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            color: #333;
+            max-width: 600px;
+            margin: 0 auto;
+            padding: 20px;
+        }
+        .header {
+            background-color: #4CAF50;
+            color: white;
+            padding: 20px;
+            text-align: center;
+            border-radius: 5px 5px 0 0;
+        }
+        .content {
+            background-color: #f9f9f9;
+            padding: 20px;
+            border: 1px solid #ddd;
+        }
+        .offer-box {
+            background-color: #fff;
+            border: 2px solid #4CAF50;
+            padding: 15px;
+            margin: 20px 0;
+            text-align: center;
+            border-radius: 5px;
+        }
+        .offer-amount {
+            font-size: 28px;
+            font-weight: bold;
+            color: #4CAF50;
+            margin: 10px 0;
+        }
+        .footer {
+            background-color: #f0f0f0;
+            padding: 15px;
+            text-align: center;
+            font-size: 12px;
+            color: #666;
+            border-radius: 0 0 5px 5px;
+        }
+        .button {
+            display: inline-block;
+            padding: 12px 24px;
+            background-color: #4CAF50;
+            color: white;
+            text-decoration: none;
+            border-radius: 5px;
+            margin: 15px 0;
+        }
+    </style>
+</head>
+<body>
+    <div class="header">
+        <h2>Cash Offer for {{PROPERTY_ADDRESS}}</h2>
+    </div>
+    
+    <div class="content">
+        <p>Hello {{AGENT_NAME}},</p>
+        
+        <p>I hope this email finds you well. I came across your listing for the vacant land at <strong>{{PROPERTY_ADDRESS}}</strong> and I'm interested in making a cash offer.</p>
+        
+        <p>We specialize in quick, hassle-free transactions and can close within 7-14 days if the terms work for both parties.</p>
+        
+        <div class="offer-box">
+            <p><strong>Our Cash Offer:</strong></p>
+            <div class="offer-amount">{{OFFER_AMOUNT}}</div>
+            <p style="font-size: 12px; color: #666;">Cash • No Financing Contingencies • Quick Closing</p>
+        </div>
+        
+        <p>I understand this is below the asking price of {{LISTING_PRICE}}, but we can offer:</p>
+        <ul>
+            <li>Cash transaction (no bank delays)</li>
+            <li>Fast closing (7-14 days)</li>
+            <li>As-is purchase (no inspections or contingencies)</li>
+            <li>No need for staging or showings</li>
+        </ul>
+        
+        <p>Would you be open to discussing this offer? I'm ready to move forward quickly if this works for your client.</p>
+        
+        <p>Please let me know at your earliest convenience, and I can provide any additional information you might need.</p>
+        
+        <p>Best regards,<br>
+        {{YOUR_NAME}}<br>
+        {{YOUR_COMPANY}}<br>
+        {{YOUR_EMAIL}}<br>
+        {{YOUR_PHONE}}</p>
+    </div>
+    
+    <div class="footer">
+        <p>This is an automated email. If you wish to unsubscribe, please reply with "UNSUBSCRIBE".</p>
+    </div>
+</body>
+</html>
+

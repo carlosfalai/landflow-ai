@@ -1,0 +1,44 @@
+# Google Apps Script
+.gs
+.clasp.json
+.claspignore
+
+# API Keys and Secrets
+.env
+*.key
+config/secrets.json
+**/secrets/
+
+# OS Files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+*~
+
+# IDE
+.vscode/
+.idea/
+*.iml
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+.cache/
+
+# Node modules (if adding any Node.js tools)
+node_modules/
+package-lock.json
+
+# Python (if adding Python scripts)
+__pycache__/
+*.pyc
+*.pyo
+venv/
+
+# Documentation builds
+docs/_build/
+
